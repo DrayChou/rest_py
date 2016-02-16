@@ -1,4 +1,6 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import time, sys
 # 判断python的版本然后import对应的模块
 if sys.version < '3':
